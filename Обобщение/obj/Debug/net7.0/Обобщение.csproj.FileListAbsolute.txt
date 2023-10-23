@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\Обобщение\Обобщение\bin\Debug\net7.0\Обобщение.exe
+C:\Users\Максим\source\repos\Обобщение\Обобщение\bin\Debug\net7.0\Обобщение.deps.json
+C:\Users\Максим\source\repos\Обобщение\Обобщение\bin\Debug\net7.0\Обобщение.runtimeconfig.json
+C:\Users\Максим\source\repos\Обобщение\Обобщение\bin\Debug\net7.0\Обобщение.dll
+C:\Users\Максим\source\repos\Обобщение\Обобщение\bin\Debug\net7.0\Обобщение.pdb
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\Обобщение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\Обобщение.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\Обобщение.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\Обобщение.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\Обобщение.dll
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\refint\Обобщение.dll
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\Обобщение.pdb
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\Обобщение.genruntimeconfig.cache
+C:\Users\Максим\source\repos\Обобщение\Обобщение\obj\Debug\net7.0\ref\Обобщение.dll
